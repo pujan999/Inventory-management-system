@@ -1,0 +1,22 @@
+[
+  {
+    "id":1,
+    "name":"ram",
+    "phone":1234
+  },
+  {
+    "id":2,
+    "name":"hari",
+    "phone":1234
+  },
+  {
+    "id":3,
+    "name":"sita",
+    "phone":1234
+  },
+  {
+    "id":4,
+    "name":"gita",
+    "phone":1234
+  }
+]
